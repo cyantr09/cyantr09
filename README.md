@@ -1,5 +1,6 @@
 <h1 align="center">Cyantree · 시안트리</h1>
 <p align="center">I'm <a href="https://cyantree.vercel.app">Cyantree</a>, a middle school student.<br/><br/><a href="https://solved.ac/mlnt"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mlnt"/></a></p>
+<h3 align="center">Contact</h3>
 <div>	
 	<img src="https://github-readme-stats.vercel.app/api?username=cyantr09&show_icons=true"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyantr09&layout=compact"/>
