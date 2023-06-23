@@ -6,8 +6,8 @@
 # About me
 <div>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mlnt"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyantr09&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api?username=cyantr09&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyantr09&layout=compact"/>
 	
 </div>
   <div>
