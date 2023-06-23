@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B8D7FF&height=300&section=header&text=cyantr09&fontSize=90&animation=fadeIn&fontAlignY=38&desc=github&descAlignY=51&descAlign=62)
+<h1>Cyantree / 시안트리</h1>
 
 # About me
 <div>
