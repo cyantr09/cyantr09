@@ -1,4 +1,4 @@
-<h1 align="center">Cyantree / 시안트리</h1>
+<h1 align="center">Cyantree · 시안트리</h1>
 
 # About me
 <div>
