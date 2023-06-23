@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B8D7FF&height=300&section=header&text=cyantr09&fontSize=90&animation=fadeIn&fontAlignY=38&desc=github&descAlignY=51&descAlign=62)
-# Intro
-안녕하세요! cyantree입니다.<br/>
-**중2**이고 코딩 취미로 합니다!<br/>
-잘하지는 않지만 이것저것 시도해보는 편입니다.
+
 # About me
 <div>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mlnt"/>
@@ -19,7 +16,10 @@
 	  
 	
 ---
-
+# Intro
+안녕하세요! cyantree입니다.<br/>
+**중2**이고 코딩 취미로 합니다!<br/>
+잘하지는 않지만 이것저것 시도해보는 편입니다.
 	
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcyantr09%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
