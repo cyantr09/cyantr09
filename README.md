@@ -4,7 +4,7 @@
 **중2**이고 코딩 취미로 합니다!<br/>
 잘하지는 않지만 이것저것 시도해보는 편입니다.
 # About me
-<div>
+<div style="display:flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyantr09&layout=compact"><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=cyantr09&show_icons=true">
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mlnt"/>
