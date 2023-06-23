@@ -2,11 +2,11 @@
 <p align="center">I'm <a href="https://cyantree.vercel.app">Cyantree</a>, a middle school student.<br/><br/><a href="https://solved.ac/mlnt"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mlnt"/></a></p>
 <h3 align="center">Contact</h3>
 <p align="center">
-	<a href="https://toss.me/cyantree/1000">toss</a> | 
-	<a href="mailto:cyantree0129@gmail.com">gmail</a>
+	<a href=""><img src="https://github-readme-stats.vercel.app/api?username=cyantr09&show_icons=true&theme=cobalt&hide_border=true"/></a><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyantr09&theme=cobalt&hide_border=true"/></a>
 </p>
 <p align="center">
-	<a href=""><img src="https://github-readme-stats.vercel.app/api?username=cyantr09&show_icons=true&theme=cobalt&hide_border=true"/></a><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyantr09&theme=cobalt&hide_border=true"/></a>
+	<a href="https://toss.me/cyantree/1000">toss</a> | 
+	<a href="mailto:cyantree0129@gmail.com">gmail</a>
 </p>
 <div>		
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
