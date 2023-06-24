@@ -1,5 +1,5 @@
 <h1 align="center">Cyantree ( mlnt )</h1>
-<p align="center">I'm <a href="https://cyantree.vercel.app">Cyantree</a>, a middle school student.<br/><br/><a href="https://solved.ac/mlnt"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mlnt"/></a></p>
+<p align="center">I'm <a href="https://cyantr.vercel.app">Cyantree</a>, a middle school student.<br/><br/><a href="https://solved.ac/mlnt"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mlnt"/></a></p>
 <h2 align="center">Intro</h2>
 <p align="center">Hello! I am cyantree. I like writing codes, but never said that I'm good at it.</p>
 <p align="center">
