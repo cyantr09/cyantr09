@@ -7,6 +7,7 @@
 	</a>
 	
 </p>
+<p align="center">Main Language : Python / TS<br/>Sub Language : C++</p>
 <h3 align="center">Contact</h3>
 <p align="center">
 	<a href="https://toss.me/cyantree/1000">toss</a> | 
